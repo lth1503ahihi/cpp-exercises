@@ -1,6 +1,6 @@
 # C++ Exercises - Bài tập C++
 
-Kho lưu trữ các bài tập thực hành và học lập trình C++.
+Kho lưu trữ các bài tập thực hành và học lập trình C++
 
 ---
 
