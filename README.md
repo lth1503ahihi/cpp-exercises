@@ -22,3 +22,12 @@ Kho luu tru cac bai tap va thuc hanh lap trinh C++.
 - [bt5.cpp](20-10-2026/bt5.cpp): Kiem tra so chinh phuong
 - [max a,b,c (2).cpp](20-10-2026/max%20a,b,c%20(2).cpp)
 - [sum a,b (2).cpp](20-10-2026/sum%20a,b%20(2).cpp)
+
+### 📅 27-10-2026 - bt lệnh lặp
+- [`27-10-2026 - bt lệnh lặp/bt1lenhlap.cpp`](27-10-2026%20-%20bt%20l%E1%BB%87nh%20l%E1%BA%B7p/bt1lenhlap.cpp): Tim cac uoc so cua n
+- [`27-10-2026 - bt lệnh lặp/bt2lenhlap.cpp`](27-10-2026%20-%20bt%20l%E1%BB%87nh%20l%E1%BA%B7p/bt2lenhlap.cpp): Tim cac so nguyen to <= n
+- [`27-10-2026 - bt lệnh lặp/bt3lenhlap.cpp`](27-10-2026%20-%20bt%20l%E1%BB%87nh%20l%E1%BA%B7p/bt3lenhlap.cpp): Tim cac so hoan hao <= n
+- [`27-10-2026 - bt lệnh lặp/bt4lenhlap.cpp`](27-10-2026%20-%20bt%20l%E1%BB%87nh%20l%E1%BA%B7p/bt4lenhlap.cpp): Tinh tong S = 1 + 1/2 + ... + 1/n
+- [`27-10-2026 - bt lệnh lặp/bt5lenhlap.cpp`](27-10-2026%20-%20bt%20l%E1%BB%87nh%20l%E1%BA%B7p/bt5lenhlap.cpp): Tinh tich cac so le P = 1 * 3 * ... * (2n-1)
+- [`27-10-2026 - bt lệnh lặp/bt6lenhlap.cpp`](27-10-2026%20-%20bt%20l%E1%BB%87nh%20l%E1%BA%B7p/bt6lenhlap.cpp): Tinh TBC va dem so am cho day so thuc
+- [`27-10-2026 - bt lệnh lặp/bt7lenhlap.cpp`](27-10-2026%20-%20bt%20l%E1%BB%87nh%20l%E1%BA%B7p/bt7lenhlap.cpp): Tinh tong day so s1 va s3
