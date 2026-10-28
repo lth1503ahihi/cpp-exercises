@@ -1,33 +1,35 @@
-# C++ Exercises - Bai tap C++
+# C++ Exercises - Bài tập C++
 
-Kho luu tru cac bai tap va thuc hanh lap trinh C++.
+Kho lưu trữ các bài tập thực hành và học lập trình C++.
 
-## Danh muc bai tap theo ngay
+---
 
-### 06-10-2026
-- [bt1.cpp](06-10-2026/bt1.cpp): Giai phuong trinh bac nhat ax + b = 0
+## 📂 Danh mục bài tập theo ngày
 
-### 08-10-2026
-- [ax^2+bx+c=0.cpp](08-10-2026/ax%5E2+bx+c=0.cpp): Giai phuong trinh bac hai
-- [max a,b,c.cpp](08-10-2026/max%20a,b,c.cpp): Tim gia tri lon nhat 3 so
-- [sum a,b.cpp](08-10-2026/sum%20a,b.cpp): Tinh tong 2 so
+### 📅 06/10/2026
+* [`06-10-2026/bt1.cpp`](06-10-2026/bt1.cpp): Giải phương trình bậc nhất $ax + b = 0$
 
-### 14-10-2026
-- [20261014-132248.cpp](14-10-2026/20261014-132248.cpp): Giai phuong trinh bac hai
+### 📅 08/10/2026
+* [`08-10-2026/ax^2+bx+c=0.cpp`](08-10-2026/ax%5E2+bx+c=0.cpp): Giải phương trình bậc hai $ax^2 + bx + c = 0$
+* [`08-10-2026/max a,b,c.cpp`](08-10-2026/max%20a,b,c.cpp): Tìm số lớn nhất trong 3 số $a, b, c$
+* [`08-10-2026/sum a,b.cpp`](08-10-2026/sum%20a,b.cpp): Tính tổng hai số $a + b$
 
-### 20-10-2026
-- [bt2.cpp](20-10-2026/bt2.cpp)
-- [bt3.cpp](20-10-2026/bt3.cpp): Tinh tien dien
-- [bt4.cpp](20-10-2026/bt4.cpp)
-- [bt5.cpp](20-10-2026/bt5.cpp): Kiem tra so chinh phuong
-- [max a,b,c (2).cpp](20-10-2026/max%20a,b,c%20(2).cpp)
-- [sum a,b (2).cpp](20-10-2026/sum%20a,b%20(2).cpp)
+### 📅 14/10/2026
+* [`14-10-2026/20261014-132248.cpp`](14-10-2026/20261014-132248.cpp): Giải phương trình bậc hai (xét đầy đủ các trường hợp $\Delta$)
 
-### 📅 27-10-2026 - bt lệnh lặp
-- [`27-10-2026 - bt lệnh lặp/bt1lenhlap.cpp`](27-10-2026%20-%20bt%20l%E1%BB%87nh%20l%E1%BA%B7p/bt1lenhlap.cpp): Tim cac uoc so cua n
-- [`27-10-2026 - bt lệnh lặp/bt2lenhlap.cpp`](27-10-2026%20-%20bt%20l%E1%BB%87nh%20l%E1%BA%B7p/bt2lenhlap.cpp): Tim cac so nguyen to <= n
-- [`27-10-2026 - bt lệnh lặp/bt3lenhlap.cpp`](27-10-2026%20-%20bt%20l%E1%BB%87nh%20l%E1%BA%B7p/bt3lenhlap.cpp): Tim cac so hoan hao <= n
-- [`27-10-2026 - bt lệnh lặp/bt4lenhlap.cpp`](27-10-2026%20-%20bt%20l%E1%BB%87nh%20l%E1%BA%B7p/bt4lenhlap.cpp): Tinh tong S = 1 + 1/2 + ... + 1/n
-- [`27-10-2026 - bt lệnh lặp/bt5lenhlap.cpp`](27-10-2026%20-%20bt%20l%E1%BB%87nh%20l%E1%BA%B7p/bt5lenhlap.cpp): Tinh tich cac so le P = 1 * 3 * ... * (2n-1)
-- [`27-10-2026 - bt lệnh lặp/bt6lenhlap.cpp`](27-10-2026%20-%20bt%20l%E1%BB%87nh%20l%E1%BA%B7p/bt6lenhlap.cpp): Tinh TBC va dem so am cho day so thuc
-- [`27-10-2026 - bt lệnh lặp/bt7lenhlap.cpp`](27-10-2026%20-%20bt%20l%E1%BB%87nh%20l%E1%BA%B7p/bt7lenhlap.cpp): Tinh tong day so s1 va s3
+### 📅 20/10/2026
+* [`20-10-2026/bt2.cpp`](20-10-2026/bt2.cpp)
+* [`20-10-2026/bt3.cpp`](20-10-2026/bt3.cpp): Tính tiền điện theo bậc thang lũy tiến
+* [`20-10-2026/bt4.cpp`](20-10-2026/bt4.cpp): Nhập số và kiểm tra điều kiện
+* [`20-10-2026/bt5.cpp`](20-10-2026/bt5.cpp): Kiểm tra số nguyên $n$ có phải là số chính phương hay không
+* [`20-10-2026/max a,b,c (2).cpp`](20-10-2026/max%20a,b,c%20(2).cpp): Tìm số lớn nhất trong 3 số (bản 2)
+* [`20-10-2026/sum a,b (2).cpp`](20-10-2026/sum%20a,b%20(2).cpp): Tính tổng hai số (bản 2)
+
+### 📅 27/10/2026 - Bài tập Lệnh lặp
+* [`27-10-2026 - bt lệnh lặp/bt1lenhlap.cpp`](27-10-2026%20-%20bt%20l%E1%BB%87nh%20l%E1%BA%B7p/bt1lenhlap.cpp): Liệt kê tất cả các ước số của số nguyên dương $n$
+* [`27-10-2026 - bt lệnh lặp/bt2lenhlap.cpp`](27-10-2026%20-%20bt%20l%E1%BB%87nh%20l%E1%BA%B7p/bt2lenhlap.cpp): Liệt kê các số nguyên tố trong phạm vi từ $2$ đến $n$
+* [`27-10-2026 - bt lệnh lặp/bt3lenhlap.cpp`](27-10-2026%20-%20bt%20l%E1%BB%87nh%20l%E1%BA%B7p/bt3lenhlap.cpp): Liệt kê các số hoàn hảo trong phạm vi $\le n$
+* [`27-10-2026 - bt lệnh lặp/bt4lenhlap.cpp`](27-10-2026%20-%20bt%20l%E1%BB%87nh%20l%E1%BA%B7p/bt4lenhlap.cpp): Tính tổng chuỗi phân số $S = 1 + \frac{1}{2} + \frac{1}{3} + \dots + \frac{1}{n}$
+* [`27-10-2026 - bt lệnh lặp/bt5lenhlap.cpp`](27-10-2026%20-%20bt%20l%E1%BB%87nh%20l%E1%BA%B7p/bt5lenhlap.cpp): Tính tích các số lẻ $P = 1 \times 3 \times 5 \times \dots \times (2n - 1)$
+* [`27-10-2026 - bt lệnh lặp/bt6lenhlap.cpp`](27-10-2026%20-%20bt%20l%E1%BB%87nh%20l%E1%BA%B7p/bt6lenhlap.cpp): Nhập dãy số thực đến khi gặp số $0$, tính số lượng, trung bình cộng và đếm số âm
+* [`27-10-2026 - bt lệnh lặp/bt7lenhlap.cpp`](27-10-2026%20-%20bt%20l%E1%BB%87nh%20l%E1%BA%B7p/bt7lenhlap.cpp): Tính tổng dãy số $S_1 = 1 + 2 + \dots + n$ và $S_3 = 2 + 4 + \dots + 2n$
