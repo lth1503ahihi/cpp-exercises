@@ -33,3 +33,8 @@ Kho lưu trữ các bài tập thực hành và học lập trình C++
 * [`27-10-2026 - bt lệnh lặp/bt5lenhlap.cpp`](27-10-2026%20-%20bt%20l%E1%BB%87nh%20l%E1%BA%B7p/bt5lenhlap.cpp): Tính tích các số lẻ $P = 1 \times 3 \times 5 \times \dots \times (2n - 1)$
 * [`27-10-2026 - bt lệnh lặp/bt6lenhlap.cpp`](27-10-2026%20-%20bt%20l%E1%BB%87nh%20l%E1%BA%B7p/bt6lenhlap.cpp): Nhập dãy số thực đến khi gặp số $0$, tính số lượng, trung bình cộng và đếm số âm
 * [`27-10-2026 - bt lệnh lặp/bt7lenhlap.cpp`](27-10-2026%20-%20bt%20l%E1%BB%87nh%20l%E1%BA%B7p/bt7lenhlap.cpp): Tính tổng dãy số $S_1 = 1 + 2 + \dots + n$ và $S_3 = 2 + 4 + \dots + 2n$
+
+### 📅 10/11/2026 - Bài tập Mảng
+* [`10-11-2026 - bt mảng/bt1mang.cpp`](10-11-2026%20-%20bt%20m%E1%BA%A3ng/bt1mang.cpp): Tính trung bình cộng số âm, lọc số chia hết cho 5 và sắp xếp mảng giảm dần
+* [`10-11-2026 - bt mảng/bt2mang.cpp`](10-11-2026%20-%20bt%20m%E1%BA%A3ng/bt2mang.cpp): Tìm giá trị lớn nhất cùng vị trí, liệt kê số hoàn hảo và số chính phương trong mảng
+* [`10-11-2026 - bt mảng/bt3mang.cpp`](10-11-2026%20-%20bt%20m%E1%BA%A3ng/bt3mang.cpp): Menu thao tác trên mảng (Xuất, Sắp xếp, Tìm kiếm, Thêm và Xóa phần tử)
